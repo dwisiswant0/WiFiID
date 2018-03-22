@@ -14,6 +14,8 @@ Auto extracting mac address in same network & username, password of @wifi.id acc
 - [Installation](#installation)
 - [Requirements](#requirements)
 - [Quick Start and Run](#quick-start-and-run)
+- [License](#license)
+- [Version](#version)
 - [Contribute](#contribute)
 
 ---
@@ -36,6 +38,14 @@ WiFiID works with PHP 5.3, 5.4, 5.5, 5.6, 7.0, 7.1, and HHVM.
 
 	$ php WiFiID.php
 
+### Help
+If you are still confused/ have suggestions, please [open the issue](https://github.com/dwisiswant0/WiFiID/issues).
+
+### License
+**WiFiID** is licensed under the MIT. Take a look at the [LICENSE](https://github.com/dwisiswant0/WiFiID/blob/master/LICENSE) for more information.
+
+### Version
+**Current version is 1.0.1** *(beta)* and still development.
 
 ### Contribute
 1. Check for open issues or open a new issue to start a discussion around a bug or feature.
